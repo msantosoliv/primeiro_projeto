@@ -19,8 +19,8 @@ body * {
 
 #container {
   margin: auto;
-  width: 50%;
-  max-width: 550;
+  width: 100%;
+  max-width: 588px;
   padding: 24px;
   margin-top: 56px;
   padding: 0 24px;
