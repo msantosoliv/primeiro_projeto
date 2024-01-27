@@ -18,7 +18,8 @@ body * {
 
 #container {
   margin: auto;
-  width: 360px;
+  width: 100%;
+  max-width: 580;
   padding: 24px;
   margin-top: 56px;
   padding: 0 24px;
